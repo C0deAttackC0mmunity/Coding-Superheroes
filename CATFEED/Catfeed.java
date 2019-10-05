@@ -1,6 +1,6 @@
-package codechef;
+//Question Link : https://www.codechef.com/problems/CATFEED
 
-// Question link : https://www.codechef.com/LTIME76B/problems/CATFEED/
+package codechef;
 
 import java.util.*;
 
